@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hola, texto en master. 
 
 hacemos otro cambio en master
+=======
+Cambiando el texto de la branch 1 
+>>>>>>> Branch1
